@@ -1,6 +1,6 @@
 # statuspost
 
-An easy way to monitor and report the status of services running on your server
+An quick and dirty way to monitor and report the status of services running on your server
 
 This is intended to be used with [Atlassian Statuspage](https://statuspage.io/). Though it can be modified to work with just about any kind of webhook
 
